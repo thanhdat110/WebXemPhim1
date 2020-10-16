@@ -1,0 +1,340 @@
+﻿body {
+    margin: 0px;
+    padding: 0px;
+    font-family:'Times New Roman';
+}
+header {
+    width:100%;
+    background-color:#000000;
+    margin:0px;
+    padding:0px;
+}
+.banner5 {
+		  width:100%;
+          height:608px;     
+}
+.logo {
+    margin-left:-20px;
+    padding-left:0px;
+    margin-bottom:10px;
+    background-image:url('logo_Icon/logo.png');
+    background-size:30%;
+    background-repeat:no-repeat;
+    height: 98px;
+}
+.nen {
+    background-color:black;
+    position:relative;
+    margin: 0 auto;
+    padding:0px;
+    height:100px;
+    width:100%;
+}
+.anhbanner {
+    margin-top:20px;
+    padding:0px;
+}
+.form {
+    width:1000px;
+    margin:auto; 
+    position: relative;
+}
+.siba {
+    height:40px;
+    background-color:black;
+    width:102%;
+}
+.menuNgang {
+    background-image:url('anhnen/nav-bg.jpg');
+    height:40px;
+    width:100%;
+    border-bottom:black 0.5px solid;
+    margin-bottom: 40px;
+    position:relative;
+}
+.clear {
+    clear:both;
+    content:"";
+}
+.trai {
+    margin-top:10px;
+    width:75%;
+    float:left;
+}
+.phai {
+    margin-top:10px;
+    margin-left:25px;
+    padding:0px;
+    width:22.5%;
+    float:left;
+}
+.video {
+    margin:10px;
+}
+.item {
+    
+    width:200px;
+    color:yellow; 
+    margin-left:9px;
+    margin-top:10px;
+    border:1px solid blue;
+    padding:0px;
+    float:left;
+    background: rgba(0, 0, 0, 0.8);
+}
+#btPlay {
+  width: 200px;
+  font-size: 18px;
+  padding: 10px;
+  border: none;
+  background: #000;
+  color: #fff;
+  cursor: pointer;
+}
+#btvol {
+  width: 200px;
+  font-size: 18px;
+  padding: 10px;
+  border: none;
+  background: #000;
+  color: #fff;
+  cursor: pointer;
+}
+.Image{
+    width:100%;
+    padding:0px;
+}
+.Traimenunho {
+    width:25%;
+    margin:5px;
+    padding:0px;
+    float:left;
+}
+.Phaimenunho {
+    width:70%;
+    margin:0px;
+    margin-bottom:5px;
+    margin-top:5px;
+    padding:0px;
+    float:left;
+}
+.item1 {
+    background: rgba(0, 0, 0, 0.8);
+    width:175px;
+    color:yellow;
+    margin-top:7px;
+    margin-left:8px;
+    padding:0px;
+    float:left;
+}
+.item3 {
+    background: rgba(0, 0, 0, 0.8);
+    width:187px;
+    color:yellow;   
+    margin:6px;
+    padding:0px;
+    float:left;
+}
+.Image1 {
+    width:95%;
+    margin:5px;
+    padding:0px;
+}
+.chu {
+ position: relative;
+ display: block;
+ background: #D8D8D8;
+ text-align: center;
+ color: blue;
+ padding:0px;
+ margin-bottom: 20px;
+ font-family:'Times New Roman';
+ width:102%;
+
+}
+
+.chu {
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius:10px;
+}
+
+.chuyenTrang {
+    border:black 0.5px solid;
+    color:pink;
+    background:#585858;
+    border-radius:10px;
+    padding:10px;
+}
+.chuyenTrang1 {
+    border:black 0.5px solid;
+    color:blue;
+    background:pink;
+    border-radius:10px;
+    padding:10px;
+}
+.Trang {
+    float:right;
+}
+.danhsach {
+    margin-top:20px;
+}
+.nutXemthem {
+    margin-top:10px;
+    margin-right:10px;
+    float:right;
+    background-color:#3ADF00;
+    color:black;
+    border-top-right-radius:10px;
+    border-bottom-left-radius:10px;
+}
+.banner {
+    margin-top: 10px;
+    width: 100%;
+    float: left;
+    background-color: rgba(54, 81, 152, 0.9);
+    padding: 8px;
+    border: 2px groove #585858;
+    word-wrap: break-word;
+}
+.jssorl-009-spin img {
+            animation-name: jssorl-009-spin;
+            animation-duration: 1.6s;
+            animation-iteration-count: infinite;
+            animation-timing-function: linear;
+        }
+
+        @keyframes jssorl-009-spin {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
+
+        /*jssor slider bullet skin 057 css*/
+        .jssorb057 .i {position:absolute;cursor:pointer;}
+        .jssorb057 .i .b {fill:none;stroke:#fff;stroke-width:2000;stroke-miterlimit:10;stroke-opacity:0.4;}
+        .jssorb057 .i:hover .b {stroke-opacity:.7;}
+        .jssorb057 .iav .b {stroke-opacity: 1;}
+        .jssorb057 .i.idn {opacity:.3;}
+
+        /*jssor slider arrow skin 073 css*/
+        .jssora073 {display:block;position:absolute;cursor:pointer;}
+        .jssora073 .a {fill:#ddd;fill-opacity:.7;stroke:#000;stroke-width:160;stroke-miterlimit:10;stroke-opacity:.7;}
+        .jssora073:hover {opacity:.8;}
+        .jssora073.jssora073dn {opacity:.4;}
+        .jssora073.jssora073ds {opacity:.3;pointer-events:none;}
+.khung {
+    background-color: rgba(54, 81, 152, 0.9);
+    padding: 8px; 
+    border: 2px groove #585858; 
+    word-wrap: break-word;
+    float:left;
+    width:100%;
+    margin-top:20px;
+}
+.binhluan {
+    background-color:white;
+    margin:auto;
+    padding:0px;
+    text-align:center;
+    width:730px;
+    border-radius:10px;
+}
+.TTPhimTrai {
+    float:left;
+    width:26%;
+    margin:5px;
+    padding: 8px; 
+    height:250px;
+}
+.TTPhimPhai {
+    float:left;
+    width:66%;
+    margin:5px;
+    padding: 8px; 
+}
+.dong {
+    display:table;
+    content:"";
+    clear:both;
+    height:250px;
+    background-color: rgba(54, 81, 152, 0.9);
+    border: 2px groove #585858; 
+    word-wrap: break-word;
+    float:left;
+    width:100%;
+    margin-top:20px;
+}
+.khung3 {
+    background-color: rgba(54, 81, 152, 0.9);
+    padding: 8px; 
+    border: 2px groove #585858; 
+    word-wrap: break-word;
+    float:left;
+    width:98%;
+    margin-top:10px;
+    margin-bottom:-10px;
+}
+div.test {
+  white-space: nowrap; 
+  width: 100%; 
+  overflow: hidden; 
+  margin-bottom:-16px;
+  padding:0px;
+}
+
+div.test:hover {
+ overflow: visible;
+}
+#unmuteButton {
+    border:red 10px solid;
+    height:400px;
+    width:1000px;
+    display:block;
+}
+
+#unmuteButton:hover {
+    border:yellow 10px solid;
+    height:400px;
+    width:1000px;
+    display:block;
+}
+.content {
+  position: absolute;
+  background: rgba(0, 0, 0, 0.0);
+  color: #f1f1f1;
+  width: 90%;
+  margin:0px;
+  bottom:20px;
+  padding: 20px;
+}
+.myBtn {
+  width: 200px;
+  font-size: 18px;
+  padding: 10px;
+  border: none;
+  background: #333333;
+  color: #fff;
+  cursor: pointer;
+}
+
+.myBtn:hover {
+  background: white;
+  color: black;
+}
+#myBtn {
+  margin:auto;
+  float:right;
+  width: 150px;
+  font-size: 18px;
+  padding: 5px;
+  border: none;
+  background: #000;
+  color: #fff;
+  cursor: pointer;
+}
+
+#myBtn:hover {
+  background: #ddd;
+  color: black;
+}
+
+
